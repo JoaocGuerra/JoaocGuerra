@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="mailto:jcarlos.guerra@hotmail.com" alt="Mail">
-  <img height="30" width="40 src="https://github.com/sempostma/office365-icons/blob/master/png/256/outlook.png" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jcarlos.guerra@hotmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/jcarlosguerraa/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcarlosguerraa" /></a>
