@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🔥 Tecnologias: <strong>Java, Javascript, MySql, Dart e Python.</strong>
+  🔥 Tecnologias: <strong>Java, Javascript, MySql, Dart, Flutter e Python.</strong>
 </p>
 <div>
   <img align="center" alt="Jcga-J" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
