@@ -1,3 +1,5 @@
+## Sobre
+
 <p align="left"> 
   Olá, meu nome é João Carlos Guerra, sou graduando em <strong>Engenharia de Computação</strong> (2017 - 2022).<br>
   Atualmente trabalhando na Evoluservices Meios de Pagamento como <strong>Analista de Desenvolvimento Trainee</strong>
@@ -5,7 +7,8 @@
 
 <p align="left">
   🔥 Tecnologias: <strong>Java, Javascript, MySql, Dart e Python.</strong>
-  ##
+</p>
+<div>
   <img align="center" alt="Jcga-J" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Jcga-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Jcga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +16,9 @@
   <img align="center" alt="Jcga-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />        
   <img align="center" alt="Jcga-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Jcga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</p>
+</div>
+
+##
 
 <p align="left">
   <a href="mailto:jcarlos.guerra@hotmail.com" alt="Mail">
