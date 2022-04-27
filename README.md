@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jcarlosguerra"/></a>
 </p> 
 
+##
+
 <div align="center">
   <a href="https://github.com/JoaocGuerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaocGuerra&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
