@@ -7,7 +7,7 @@
 ## Sobre
 
 <p align="left"> 
-  Olá, meu nome é João Carlos Guerra, sou graduando em <strong>Engenharia de Computação</strong> (2017 - 2022).<br>
+  Olá, meu nome é João Carlos Guerra, sou bacharel em <strong>Engenharia de Computação</strong> (2017 - 2022).<br>
   Atualmente trabalhando na Evoluservices Meios de Pagamento como <strong>Analista de Desenvolvimento Jr</strong>
 </p>
 
